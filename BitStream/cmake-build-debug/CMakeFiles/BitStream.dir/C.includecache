@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/paulo/Desktop/UC2019 - LEI Programas/TI/BitStream/Bitstream.h
+stdlib.h
+-
+stdio.h
+-
+
+C:/Users/paulo/Desktop/UC2019 - LEI Programas/TI/BitStream/BitstreamIOFiles.c
+BitstreamIOFiles.h
+C:/Users/paulo/Desktop/UC2019 - LEI Programas/TI/BitStream/BitstreamIOFiles.h
+
+C:/Users/paulo/Desktop/UC2019 - LEI Programas/TI/BitStream/BitstreamIOFiles.h
+stdio.h
+-
+stdlib.h
+-
+Bitstream.h
+C:/Users/paulo/Desktop/UC2019 - LEI Programas/TI/BitStream/Bitstream.h
+

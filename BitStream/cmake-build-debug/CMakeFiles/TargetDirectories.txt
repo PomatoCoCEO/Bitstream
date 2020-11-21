@@ -1,0 +1,3 @@
+C:/Users/paulo/Desktop/UC2019 - LEI Programas/TI/BitStream/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/paulo/Desktop/UC2019 - LEI Programas/TI/BitStream/cmake-build-debug/CMakeFiles/BitStream.dir
+C:/Users/paulo/Desktop/UC2019 - LEI Programas/TI/BitStream/cmake-build-debug/CMakeFiles/rebuild_cache.dir
